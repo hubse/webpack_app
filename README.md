@@ -21,6 +21,7 @@ npm install webpack webpack-cli style-loader css-loader --save-dev
 5. npx webpack, which creates dist/main.js.
 
 ## Project Structure
+```
 my-webpack-demo/
 ├── dist/
 │   └── index.html
@@ -28,6 +29,7 @@ my-webpack-demo/
 │   ├── index.js
 │   └── style.css
 └── webpack.config.js
+```
 
 ## What Webpack Did Behind the Scenes
 Read your index.js
